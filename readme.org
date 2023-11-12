@@ -6,7 +6,7 @@
 #+startup: showall 
 
 #+begin_comment
-$$ Last modified:  15:58:24 Sun Nov 12 2023 CET
+$$ Last modified:  15:59:09 Sun Nov 12 2023 CET
 #+end_comment
 
 This projects implements the control of a Max/MSP-Matrix via Novation's LaunchPad Pro by using its "Programmer Mode". 

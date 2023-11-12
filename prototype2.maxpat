@@ -45,7 +45,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 497.75, 278.0, 29.5, 22.0 ],
+					"patching_rect" : [ 523.75, 337.0, 29.5, 22.0 ],
 					"text" : "init"
 				}
 
@@ -57,7 +57,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
-					"patching_rect" : [ 424.75, 334.0, 127.0, 22.0 ],
+					"patching_rect" : [ 450.75, 393.0, 127.0, 22.0 ],
 					"text" : "lpp.matrixctrl mat4 0 8"
 				}
 
@@ -69,7 +69,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 424.75, 278.0, 56.0, 22.0 ],
+					"patching_rect" : [ 450.75, 337.0, 56.0, 22.0 ],
 					"text" : "r from_lp"
 				}
 
@@ -80,7 +80,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 424.75, 379.0, 44.0, 22.0 ],
+					"patching_rect" : [ 450.75, 438.0, 44.0, 22.0 ],
 					"text" : "s to_lp"
 				}
 
@@ -95,7 +95,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "list", "list" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 583.75, 312.0, 66.0, 66.0 ]
+					"patching_rect" : [ 609.75, 371.0, 66.0, 66.0 ]
 				}
 
 			}
@@ -106,7 +106,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 207.75, 283.0, 29.5, 22.0 ],
+					"patching_rect" : [ 233.75, 342.0, 29.5, 22.0 ],
 					"text" : "init"
 				}
 
@@ -118,7 +118,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
-					"patching_rect" : [ 134.75, 339.0, 133.0, 22.0 ],
+					"patching_rect" : [ 160.75, 398.0, 133.0, 22.0 ],
 					"text" : "lpp.matrixctrl mat3 1 83"
 				}
 
@@ -130,7 +130,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 134.75, 283.0, 56.0, 22.0 ],
+					"patching_rect" : [ 160.75, 342.0, 56.0, 22.0 ],
 					"text" : "r from_lp"
 				}
 
@@ -141,7 +141,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 134.75, 384.0, 44.0, 22.0 ],
+					"patching_rect" : [ 160.75, 443.0, 44.0, 22.0 ],
 					"text" : "s to_lp"
 				}
 
@@ -156,7 +156,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "list", "list" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 293.75, 317.0, 66.0, 66.0 ]
+					"patching_rect" : [ 319.75, 376.0, 66.0, 66.0 ]
 				}
 
 			}
@@ -225,7 +225,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 497.75, 445.0, 29.5, 22.0 ],
+					"patching_rect" : [ 523.75, 504.0, 29.5, 22.0 ],
 					"text" : "init"
 				}
 
@@ -237,7 +237,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
-					"patching_rect" : [ 424.75, 501.0, 133.0, 22.0 ],
+					"patching_rect" : [ 450.75, 560.0, 133.0, 22.0 ],
 					"text" : "lpp.matrixctrl mat2 1 83"
 				}
 
@@ -249,7 +249,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 424.75, 445.0, 56.0, 22.0 ],
+					"patching_rect" : [ 450.75, 504.0, 56.0, 22.0 ],
 					"text" : "r from_lp"
 				}
 
@@ -260,7 +260,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 424.75, 546.0, 44.0, 22.0 ],
+					"patching_rect" : [ 450.75, 605.0, 44.0, 22.0 ],
 					"text" : "s to_lp"
 				}
 
@@ -275,7 +275,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "list", "list" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 583.75, 479.0, 66.0, 66.0 ]
+					"patching_rect" : [ 609.75, 538.0, 66.0, 66.0 ]
 				}
 
 			}
@@ -326,7 +326,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 207.75, 450.0, 29.5, 22.0 ],
+					"patching_rect" : [ 233.75, 509.0, 29.5, 22.0 ],
 					"text" : "init"
 				}
 
@@ -338,7 +338,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "" ],
-					"patching_rect" : [ 134.75, 506.0, 127.0, 22.0 ],
+					"patching_rect" : [ 160.75, 565.0, 127.0, 22.0 ],
 					"text" : "lpp.matrixctrl mat1 0 8"
 				}
 
@@ -362,7 +362,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 134.75, 450.0, 56.0, 22.0 ],
+					"patching_rect" : [ 160.75, 509.0, 56.0, 22.0 ],
 					"text" : "r from_lp"
 				}
 
@@ -373,7 +373,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 134.75, 551.0, 44.0, 22.0 ],
+					"patching_rect" : [ 160.75, 610.0, 44.0, 22.0 ],
 					"text" : "s to_lp"
 				}
 
@@ -452,7 +452,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "list", "list" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 293.75, 484.0, 66.0, 66.0 ]
+					"patching_rect" : [ 319.75, 543.0, 66.0, 66.0 ]
 				}
 
 			}
@@ -760,7 +760,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-15", 0 ],
-					"midpoints" : [ 507.25, 486.0, 434.25, 486.0 ],
+					"midpoints" : [ 533.25, 545.0, 460.25, 545.0 ],
 					"source" : [ "obj-14", 0 ]
 				}
 
@@ -870,7 +870,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-30", 0 ],
-					"midpoints" : [ 507.25, 319.0, 434.25, 319.0 ],
+					"midpoints" : [ 533.25, 378.0, 460.25, 378.0 ],
 					"source" : [ "obj-29", 0 ]
 				}
 
@@ -906,7 +906,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-37", 0 ],
-					"midpoints" : [ 217.25, 324.0, 144.25, 324.0 ],
+					"midpoints" : [ 243.25, 383.0, 170.25, 383.0 ],
 					"source" : [ "obj-36", 0 ]
 				}
 
@@ -992,7 +992,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-2", 0 ],
-					"midpoints" : [ 217.25, 491.0, 144.25, 491.0 ],
+					"midpoints" : [ 243.25, 550.0, 170.25, 550.0 ],
 					"source" : [ "obj-5", 0 ]
 				}
 

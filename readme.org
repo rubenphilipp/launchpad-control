@@ -1,0 +1,12 @@
+# -*- eval: (flyspell-mode); mode: visual-line; eval: (ispell-change-dictionary "de") -*-
+#+CATEGORY: code
+#+title: LaunchPad Pro Matrix
+#+author: Ruben Philipp
+#+date: 2023-11-12
+#+startup: showall 
+
+#+begin_comment
+$$ Last modified:  15:58:24 Sun Nov 12 2023 CET
+#+end_comment
+
+This projects implements the control of a Max/MSP-Matrix via Novation's LaunchPad Pro by using its "Programmer Mode". 

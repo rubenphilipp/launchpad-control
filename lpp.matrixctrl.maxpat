@@ -47,8 +47,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 749.0, 185.5, 210.0, 181.0 ],
-					"presentation_linecount" : 13,
-					"text" : "Messages:\n- init\n  > initializes both matrixctrl and LPP\n     with the current values\n- set cola [int]\n  > sets the value of colour a (i.e. the \n     \"inactive\" colour)\n      must be a miti value according to \n      Novation's reference guide (see \n      above)\n- set colb [int]\n   > similar to set cola but sets colour  \n      b which is the \"active\" colour"
+					"text" : "Messages:\n- init\n  > initializes both matrixctrl and LPP\n     with the current values\n- set cola [int]\n  > sets the value of colour a (i.e. the \n     \"inactive\" colour)\n      must be a midi value according to \n      Novation's reference guide (see \n      above)\n- set colb [int]\n   > similar to set cola but sets colour  \n      b which is the \"active\" colour"
 				}
 
 			}
@@ -113,7 +112,6 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-6",
-									"linecount" : 3,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -162,7 +160,6 @@
 , 							{
 								"box" : 								{
 									"id" : "obj-9",
-									"linecount" : 3,
 									"maxclass" : "newobj",
 									"numinlets" : 1,
 									"numoutlets" : 1,
@@ -716,7 +713,7 @@
 									"numinlets" : 0,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 157.5, 129.5, 73.0, 22.0 ],
+									"patching_rect" : [ 157.5, 129.5, 65.0, 49.0 ],
 									"text" : "r #0_coll-init"
 								}
 
@@ -890,7 +887,7 @@
 									"maxclass" : "inlet",
 									"numinlets" : 0,
 									"numoutlets" : 1,
-									"outlettype" : [ "list" ],
+									"outlettype" : [ "" ],
 									"patching_rect" : [ 107.5, 40.0, 30.0, 30.0 ]
 								}
 
@@ -1255,7 +1252,7 @@
 				"box" : 				{
 					"comment" : "matrixctrl out",
 					"id" : "obj-10",
-					"index" : 2,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -1267,7 +1264,7 @@
 				"box" : 				{
 					"comment" : "LPP MIDI out",
 					"id" : "obj-9",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -1279,11 +1276,11 @@
 				"box" : 				{
 					"comment" : "matrixctrl in",
 					"id" : "obj-8",
-					"index" : 2,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "list" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 471.0, 27.0, 30.0, 30.0 ]
 				}
 
@@ -1292,7 +1289,7 @@
 				"box" : 				{
 					"comment" : "LPP MIDI in / control msgs",
 					"id" : "obj-7",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
@@ -1533,7 +1530,9 @@
 				}
 
 			}
- ]
+ ],
+		"dependency_cache" : [  ],
+		"autosave" : 0
 	}
 
 }
